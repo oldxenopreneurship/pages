@@ -1,5 +1,7 @@
 Hi
 
+I am assistant professor at LSU
+
 This is a blog
 
 Publications
